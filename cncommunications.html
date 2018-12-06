@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="./img/favicon.png" rel="shortcut icon"/>
+        <meta charset="utf-8"/>
+        <meta content="width=1440px, maximum-scale=1.0" name="viewport"/>
+        <link href="./css/cnCommunications.css" rel="stylesheet" type="text/css"/>
+        <meta content="Launchpad by Anima" name="author">
+        </meta>
+    </head>
+    <body style="margin: 0;
+ background: rgba(255, 255, 255, 1.0);">
+        <input id="anPageName" name="page" type="hidden" value="cncommunications"/>
+        <form action="none" class="cncommunications" method="post" name="none">
+            <div style="width: 1440px; height: 100%; position:relative; margin:auto;">
+                <div class="communications">
+                    Communications
+                </div>
+                <a href="cnmessagingchecklists.html">
+                    <div class="messagingchecklis">
+                        Messaging + Checklists
+                    </div>
+                </a>
+                <a href="cnmeetinginabox.html">
+                    <div class="u201cmeetinginaboxu201d">
+                        “Meeting in a Box”
+                    </div>
+                </a>
+                <a href="cnphaseupdatescopy.html">
+                    <div class="sprintsmilestones">
+                        Sprints + Milestones
+                    </div>
+                </a>
+                <a href="cnphaseupdates.html">
+                    <div class="phaseupdates">
+                        Phase Updates
+                    </div>
+                </a>
+                <a href="cnhome.html">
+                    <div class="changenetwork">
+                        Change Network
+                    </div>
+                </a>
+                <a href="cncontactus.html">
+                    <div class="contactsupport">
+                        Contact Support
+                    </div>
+                </a>
+                <a href="announcements.html">
+                    <div class="rectangle">
+                    </div>
+                </a>
+                <img anima-src="./img/cn-communications-redcommunicationsicon@2x.png" class="redcommunicationsicon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                <a href="cnmessagingchecklists.html">
+                    <img anima-src="./img/cn-communications-checklisticon@2x.png" class="checklisticon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+                <a href="cnmeetinginabox.html">
+                    <img anima-src="./img/lt-wwasaying-meetinginaboxicon@2x.png" class="meetinginaboxicon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+                <a href="cnphaseupdates.html">
+                    <img anima-src="./img/cn-communications-phaseupdates@2x.png" class="phaseupdates1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+                <a href="cnphaseupdatescopy.html">
+                    <img anima-src="./img/cn-communications-sprinticon@2x.png" class="sprinticon" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+                <a href="cnhome.html">
+                    <img anima-src="./img/cn-pmo-bitmap@2x.png" class="bitmap" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+                </a>
+                <a href="homev1.html">
+                    <div class="orchestrahome">
+                        Orchestra Home
+                    </div>
+                </a>
+                <a href="announcements.html">
+                    <div class="announcements">
+                        Announcements
+                    </div>
+                </a>
+            </div>
+        </form>
+        <!-- Scripts -->
+        <script>
+            anima_isHidden = function(e) {
+                if (!(e instanceof HTMLElement)) return !1;
+                if (getComputedStyle(e).display == "none") return !0; else if (e.parentNode && anima_isHidden(e.parentNode)) return !0;
+                return !1;
+            };
+            anima_loadAsyncSrcForTag = function(tag) {
+                var elements = document.getElementsByTagName(tag);
+                var toLoad = [];
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var src = e.getAttribute("src");
+                    var loaded = (src != undefined && src.length > 0 && src != 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==');
+                    if (loaded) continue;
+                    var asyncSrc = e.getAttribute("anima-src");
+                    if (asyncSrc == undefined || asyncSrc.length == 0) continue;
+                    if (anima_isHidden(e)) continue;
+                    toLoad.push(e);
+                }
+                toLoad.sort(function(a, b) {
+                    return anima_getTop(a) - anima_getTop(b);
+                });
+                for (var i = 0; i < toLoad.length; i++) {
+                    var e = toLoad[i];
+                    var asyncSrc = e.getAttribute("anima-src");
+                    e.setAttribute("src", asyncSrc);
+                }
+            };
+            anima_pauseHiddenVideos = function(tag) {
+                var elements = document.getElementsByTagName("video");
+                for (var i = 0; i < elements.length; i++) {
+                    var e = elements[i];
+                    var isPlaying = !!(e.currentTime > 0 && !e.paused && !e.ended && e.readyState > 2);
+                    var isHidden = anima_isHidden(e);
+                    if (!isPlaying && !isHidden && e.getAttribute("autoplay") == "autoplay") {
+                        e.play();
+                    } else if (isPlaying && isHidden) {
+                        e.pause();
+                    }
+                }
+            };
+            anima_loadAsyncSrc = function(tag) {
+                anima_loadAsyncSrcForTag("img");
+                anima_loadAsyncSrcForTag("iframe");
+                anima_loadAsyncSrcForTag("video");
+                anima_pauseHiddenVideos();
+            };
+            var anima_getTop = function(e) {
+                var top = 0;
+                do {
+                    top += e.offsetTop || 0;
+                    e = e.offsetParent;
+                } while (e);
+                return top;
+            };
+            anima_loadAsyncSrc();
+            anima_old_onResize = window.onresize;
+            anima_new_onResize = undefined;
+            anima_updateOnResize = function() {
+                if (anima_new_onResize == undefined || window.onresize != anima_new_onResize) {
+                    anima_new_onResize = function(x) {
+                        if (anima_old_onResize != undefined) anima_old_onResize(x);
+                        anima_loadAsyncSrc();
+                    };
+                    window.onresize = anima_new_onResize;
+                    setTimeout(function() {
+                        anima_updateOnResize();
+                    }, 3000);
+                }
+            };
+            anima_updateOnResize();
+            setTimeout(function() {
+                anima_loadAsyncSrc();
+            }, 200);
+        </script>
+        <!-- End of Scripts -->
+    </body>
+</html>
