@@ -1,0 +1,280 @@
+
+
+.ltqf {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.ltqf .questionsfeedback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.ltqf .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 4600px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : -6979px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltqf .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.ltqf .faq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 704px;
+  height              : auto;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.ltqf .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 704px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1003px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.ltqf .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 410px;
+  height              : 296px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltqf .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.ltqf .faq2icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 400px;
+  height              : 296px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltqf .contactusicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 423px;
+  height              : 251px;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 981px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltqf .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 66px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltqf .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.ltqf .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

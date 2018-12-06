@@ -1,0 +1,418 @@
+
+
+.cntimeline {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cntimeline .orchestratimeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 415px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cntimeline .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 3459px;
+  width               : 12481px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cntimeline .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1217px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1307px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1262px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .moreonorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 307px;
+  height              : auto;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 34.0px;
+}
+.cntimeline .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : 715px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cntimeline .calendaricon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 84px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cntimeline .conductornobackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 192px;
+  height              : 106px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1217px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .googlecalendarsample {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 318px;
+  height              : 498px;
+  width               : 822px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .maleavi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 410px;
+  height              : 133px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1205px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+}
+.cntimeline .pmoicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 609px;
+  height              : 149px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1210px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.cntimeline .meettheteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 543px;
+  height              : auto;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1200px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cntimeline .programupdates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 751px;
+  height              : auto;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1176px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.cntimeline .resources {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 933px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1195px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.cntimeline .viewupcomingmeetin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : 454px;
+  position            : absolute;
+  margin              : 0;
+  left                : 505px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cntimeline .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 66px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .templatesicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 817px;
+  height              : 104px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1212px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cntimeline .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cntimeline .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

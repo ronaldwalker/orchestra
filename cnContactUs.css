@@ -1,0 +1,440 @@
+
+
+.cncontactus {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+textarea:focus, input:focus {
+  outline             : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cncontactus .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 547px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cncontactus .leaveusfeedback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 564px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.cncontactus .ronaldwalker {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 658px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cncontactus .iu2019mheretohelp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.cncontactus .askusaquestion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 314px;
+  height              : auto;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 30.0px;
+}
+.cncontactus .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cncontactus .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cncontactus .contactusicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 93px;
+  height              : 64px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cncontactus .rectangle1 {
+  background-color    : rgba(215, 215, 215, 0.75);
+  top                 : 610px;
+  height              : 139px;
+  width               : 490px;
+  position            : absolute;
+  margin              : 0;
+  left                : 607px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cncontactus .texttypesomething {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 608px;
+  height              : 144px;
+  width               : 495px;
+  position            : absolute;
+  margin              : 0;
+  left                : 607px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+  border              : 0;
+}
+.cncontactus .texttypesomething::placeholder {
+  color               : rgba(74, 73, 74, 0.6);
+}
+.cncontactus .rectangle2 {
+  background-color    : rgba(237, 237, 237, 1.0);
+  top                 : 365px;
+  height              : 139px;
+  width               : 490px;
+  position            : absolute;
+  margin              : 0;
+  left                : 607px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.73;
+}
+.cncontactus .texttypesomething1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 367px;
+  height              : 143px;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 603px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+  border              : 0;
+}
+.cncontactus .texttypesomething1::placeholder {
+  color               : rgba(74, 73, 74, 0.6);
+}
+.cncontactus .ronaldwalker1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 588px;
+  height              : auto;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 363px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.cncontactus .orchestrasupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 621px;
+  height              : auto;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.cncontactus .send {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 752px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1036px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-BoldOblique", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.cncontactus .send1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 510px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1033px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-BoldOblique", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.cncontactus .fortailoredassista {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cncontactus .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cncontactus .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 371px;
+  height              : 194px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 339px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cncontactus .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

@@ -1,0 +1,452 @@
+
+
+.cphome {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cphome .coreprojectteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 431px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(231, 69, 59, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cphome .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 4600px;
+  width               : 6321px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cphome .teamhome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(231, 69, 59, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cphome .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cphome .whatweu2019resaying {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(231, 69, 59, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.cphome .whenthingsarehapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 567px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.cphome .questionsfeedback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 971px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.cphome .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 679px;
+  height              : 296px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 503px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cphome .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 679px;
+  height              : 297px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 931px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cphome .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cphome .programupdates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 882px;
+  height              : auto;
+  width               : 262px;
+  position            : absolute;
+  margin              : 0;
+  left                : 605px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.cphome .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 754px;
+  height              : auto;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.cphome .orchestratimeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 754px;
+  height              : auto;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 595px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.cphome .moreonorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 818px;
+  height              : auto;
+  width               : 274px;
+  position            : absolute;
+  margin              : 0;
+  left                : 600px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.cphome .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 850px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.cphome .faq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 786px;
+  height              : auto;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1153px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.cphome .meetingmaterials {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 818px;
+  height              : auto;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 157px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.cphome .teamupdates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 882px;
+  height              : auto;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.cphome .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 253px;
+  height              : 307px;
+  width               : 284px;
+  position            : absolute;
+  margin              : 0;
+  left                : 578px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cphome .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 72px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cphome .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cphome .announcements1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

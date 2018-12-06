@@ -1,0 +1,540 @@
+
+
+.cnaboutorchestra {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cnaboutorchestra .aboutorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 465px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(104, 56, 179, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cnaboutorchestra .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 3459px;
+  width               : 17101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .helpfulinformation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : 496px;
+  position            : absolute;
+  margin              : 0;
+  left                : 473px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(104, 56, 179, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnaboutorchestra .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnaboutorchestra .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1217px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1307px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 370px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1262px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .moreonorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 307px;
+  height              : auto;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(104, 56, 179, 1.0);
+  text-align          : justify;
+  line-height         : 34.0px;
+}
+.cnaboutorchestra .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : 715px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cnaboutorchestra .conductornobackground {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 192px;
+  height              : 106px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1217px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .maleavi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 410px;
+  height              : 133px;
+  width               : 133px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1207px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+}
+.cnaboutorchestra .pmoicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 149px;
+  width               : 123px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1212px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.4;
+}
+.cnaboutorchestra .meettheteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 543px;
+  height              : auto;
+  width               : 142px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1202px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cnaboutorchestra .programupdates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 742px;
+  height              : auto;
+  width               : 174px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1186px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cnaboutorchestra .resources {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 930px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.cnaboutorchestra .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 298px;
+  height              : 317px;
+  width               : 492px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .whatisprojectorch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 39.0px;
+  color               : rgba(104, 56, 179, 1.0);
+  text-align          : center;
+  line-height         : 47.0px;
+}
+.cnaboutorchestra .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 298px;
+  height              : 318px;
+  width               : 494px;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.cnaboutorchestra .loremipsumloremip {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-LightOblique", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cnaboutorchestra .ourstory {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : auto;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 39.0px;
+  color               : rgba(104, 56, 179, 1.0);
+  text-align          : left;
+  line-height         : 47.0px;
+}
+.cnaboutorchestra .loremipsumloremip1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 701px;
+  height              : auto;
+  width               : 463px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-LightOblique", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : justify;
+  line-height         : 24.0px;
+}
+.cnaboutorchestra .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 431px;
+  height              : 53px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cnaboutorchestra .rectangle2 {
+  background-color    : rgba(104, 56, 179, 1.0);
+  top                 : 298px;
+  height              : 319px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .rectangle3 {
+  background-color    : rgba(104, 56, 179, 1.0);
+  top                 : 678px;
+  height              : 283px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 676px;
+  height              : 290px;
+  width               : 508px;
+  position            : absolute;
+  margin              : 0;
+  left                : 571px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  overflow            : hidden;
+}
+.cnaboutorchestra .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 798px;
+  height              : 42px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 811px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cnaboutorchestra .templatesicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 817px;
+  height              : 104px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1214px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnaboutorchestra .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnaboutorchestra .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

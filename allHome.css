@@ -1,0 +1,418 @@
+
+
+.allhome {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.allhome .allusers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 580px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(72, 131, 239, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.allhome .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 476px;
+  height              : 4600px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10059px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allhome .helpfulresourcesfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 500px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(72, 131, 239, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.allhome .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.allhome .whatweu2019resaying {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(231, 69, 59, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.allhome .whenthingsarehapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 340px;
+  position            : absolute;
+  margin              : 0;
+  left                : 567px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.allhome .questionsfeedback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 560px;
+  height              : auto;
+  width               : 440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 971px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 42.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 50.0px;
+}
+.allhome .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 679px;
+  height              : 296px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 503px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allhome .line1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 679px;
+  height              : 297px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 931px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allhome .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.allhome .meettheteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 802px;
+  height              : auto;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.allhome .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 729px;
+  height              : auto;
+  width               : 248px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.allhome .orchestratimeline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 777px;
+  height              : auto;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 595px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.allhome .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 818px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.allhome .faq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 754px;
+  height              : auto;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1153px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 38.0px;
+}
+.allhome .programupdates {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 875px;
+  height              : auto;
+  width               : 291px;
+  position            : absolute;
+  margin              : 0;
+  left                : 152px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 38.0px;
+}
+.allhome .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 312px;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 579px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allhome .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 81px;
+  width               : 75px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.allhome .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.allhome .announcements1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

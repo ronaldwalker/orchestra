@@ -1,0 +1,303 @@
+
+
+.homev1 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.homev1 .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 461px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 559px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .asingleplatformso {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 512px;
+  height              : auto;
+  width               : 760px;
+  position            : absolute;
+  margin              : 0;
+  left                : 336px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(72, 131, 239, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.homev1 .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1273px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.homev1 .rectangle {
+  background-color    : rgba(72, 131, 239, 1.0);
+  top                 : 619px;
+  height              : 38px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 631px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .aboutorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 621px;
+  height              : auto;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 635px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.homev1 .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 721px;
+  height              : 209px;
+  width               : 194px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 718px;
+  height              : 215px;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 447px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 728px;
+  height              : 215px;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 736px;
+  height              : 180px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 811px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.homev1 .changenetwork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 928px;
+  height              : auto;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(72, 131, 239, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.homev1 .coreteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 928px;
+  height              : auto;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 422px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(231, 69, 59, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.homev1 .leadershipteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 927px;
+  height              : auto;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 768px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.homev1 .allusers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 928px;
+  height              : auto;
+  width               : 253px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.homev1 .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 205px;
+  height              : 285px;
+  width               : 369px;
+  position            : absolute;
+  margin              : 0;
+  left                : 530px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

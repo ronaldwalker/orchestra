@@ -1,0 +1,615 @@
+
+
+.cnfaq {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cnfaq .faq {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 650px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cnfaq .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnfaq .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cnfaq .faq2icon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 83px;
+  height              : 84px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 561px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+}
+.cnfaq .canu2019tfindyourques {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1043px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(65, 117, 5, 1.0);
+  text-align          : justify;
+  line-height         : 20.0px;
+}
+.cnfaq .frequentlyaskedque {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 187px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(52, 168, 86, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnfaq .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnfaq .path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 3516px;
+  width               : 10941px;
+  position            : absolute;
+  margin              : 0;
+  left                : 560px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 310px;
+  height              : 577px;
+  width               : 803px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(74, 73, 74, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.23;
+}
+.cnfaq .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 581px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 427px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 388px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 350px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 465px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 504px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line26 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 542px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 619px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line28 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 658px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 696px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line210 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 735px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line211 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 773px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 812px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .line213 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 850px;
+  height              : 1px;
+  width               : 805px;
+  position            : absolute;
+  margin              : 0;
+  left                : 318px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnfaq .howdoesthisrelate {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 318px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .isthereanability {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 355px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .whatgoesawaywith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 393px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .whatistheimplemen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 432px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .whendoesuatstart {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 470px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .willoursupplierso {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 509px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .whathasbeendones {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 547px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .howwillwemeasure {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 586px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .howarewebaselinin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 624px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .howcanwesetupme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 663px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .isprojectorchestra {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 701px;
+  height              : auto;
+  width               : 791px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnfaq .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

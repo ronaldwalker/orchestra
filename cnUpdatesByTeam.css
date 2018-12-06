@@ -1,0 +1,1115 @@
+
+
+.cnupdatesbyteam {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.cnupdatesbyteam .meetthechangenetw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.cnupdatesbyteam .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.cnupdatesbyteam .supplyplanning {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .acii {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 528px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .opsmanagement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .globallogistics {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .machinedelivery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 528px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .npiopm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 752px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .hwops {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 752px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .mdmpdmops {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 976px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .npiscpm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 976px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .materialsmanagement {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .acnproc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 537px;
+  height              : auto;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1191px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .e2open {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 558px;
+  height              : auto;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1191px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .u201cau201dparts {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 516px;
+  height              : auto;
+  width               : 100px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1191px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .cmpcm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 864px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1199px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .contractmanufacturi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 483px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .orchestrachangecha {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 175px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 670px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 760px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 715px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .alukp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .alukp1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .ruli {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 292px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .eliseschoneweis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .monuristani {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 755px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .jakephilpott {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .tushararoraangela {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 140px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1273px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : right;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .markdemuth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .rashmimunot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 292px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .ashishahluwalia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .samlee {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 755px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .leticiajensen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .pragyatiwari {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 904px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1202px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .eschoneweis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .monuristani1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 755px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .jakephilpott1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .lejensen {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .lesam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 755px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .asahluwalia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 531px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .pragyatiwari1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1202px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .rmunot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 292px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .mdemuth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 937px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .yingjul {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 553px;
+  height              : auto;
+  width               : 199px;
+  position            : absolute;
+  margin              : 0;
+  left                : 292px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 66px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 259px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1312px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 981px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 258px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 362px;
+  height              : 98px;
+  width               : 98px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1254px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 533px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 533px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 757px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 981px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 757px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .bitmap14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 667px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1204px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cnupdatesbyteam .aroratushar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 585px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .angmarsh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 585px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .sellaiah {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 616px;
+  height              : auto;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1226px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.cnupdatesbyteam .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

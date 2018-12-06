@@ -1,0 +1,514 @@
+
+
+.ltmeettheteam {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.ltmeettheteam .meettheleadership {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 306px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : justify;
+  line-height         : 84.0px;
+}
+.ltmeettheteam .contactsupport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1270px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .rectangle {
+  background-color    : rgba(227, 226, 226, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 1438px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+}
+.ltmeettheteam .oscargaravito {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .vijayguliam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1033px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .sanjaychikermane {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 751px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .murielmora {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .programmanager {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .operationsmanager {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1033px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .operationslead {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 751px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .directoroperations {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(249, 189, 52, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .oscargaravito1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 666px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 185px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .vguliam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 666px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1033px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .sanjaych {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 666px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 751px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .murielmora1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 666px;
+  height              : auto;
+  width               : 205px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Oblique", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 66px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .orchestrahome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 668px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 758px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 713px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .leadershipteam {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : auto;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 517px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.75;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+.ltmeettheteam .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 474px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 756px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 396px;
+  height              : 195px;
+  width               : 195px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1038px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .maleavi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 57px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.ltmeettheteam .announcements {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : auto;
+  width               : 196px;
+  position            : absolute;
+  margin              : 0;
+  left                : 622px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 19.0px;
+  color               : rgba(157, 155, 150, 1.0);
+  text-align          : center;
+  line-height         : 23.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
